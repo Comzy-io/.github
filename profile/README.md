@@ -1,4 +1,4 @@
-# Welcome to Comzy
+# Welcome to Comzy CPaas
 
 **Comzy** is a modern **CPaaS (Communications Platform as a Service)** solution that simplifies the way developers integrate communication features into their applications. We provide robust, developer-friendly **SDKs** that help you build and scale communication capabilities effortlessly.
 
